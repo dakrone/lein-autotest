@@ -2,7 +2,7 @@
 
 A Leiningen plugin to start Lazytest's autowatch.
 
-[Leiningen](http://github.com/technomancy/leiningen/)
+[Leiningen](http://github.com/technomancy/leiningen/)<br />
 [Lazytest](http://github.com/stuartsierra/lazytest)
 
 ## Usage
