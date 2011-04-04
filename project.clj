@@ -1,4 +1,4 @@
-(defproject lein-autotest "1.1.0"
+(defproject lein-autotest "1.2.0"
   :description "A Leiningen plugin to start Lazytest's autowatch"
   :dependencies [[org.clojure/clojure "1.2.0"]
                  [org.clojure/clojure-contrib "1.2.0"]

@@ -3,4 +3,4 @@
 
 (defn autotest
   [project]
-  (lt/start ["src"])) 
+  (lt/start ["src" "test"])) 
